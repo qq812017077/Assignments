@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 357a2d2bbabbdd24692b745784dcaf59, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  itemList:
+  - ItemName: Axe
+    stack: 4
+  - ItemName: Nail
+    stack: 1
+  - ItemName: Scroll
+    stack: 2
+  - ItemName: Stone
+    stack: 5
+  - ItemName: Spade
+    stack: 2
+  - ItemName: Wood
+    stack: 2

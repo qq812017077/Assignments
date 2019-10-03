@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf22ea947d837c54991182328803b3b0, type: 3}
+  m_Name: Scroll
+  m_EditorClassIdentifier: 
+  Name: Scroll
+  Icon: {fileID: 21300000, guid: b649f6ebed7b95040a0a2634524d13e6, type: 3}
+  Prefab: {fileID: 0}
+  behaviour: 0
+  localTo: 0
+  AttributeValue:
+    Attack: 0
+    Defensive: 0
+  Price: 1200
+  Detail: "\u4E0A\u53E4\u5377\u8F74"
